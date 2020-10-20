@@ -7,6 +7,5 @@ $('.mobile-btn').click(function(){
 // Slider Principal
 new SimpleSlide({
 	slide: 'principal',
-	nav: true,
 	time: 2000, 
   });
